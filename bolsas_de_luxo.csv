@@ -1,0 +1,21 @@
+Codigo ;Marca ;Tipo ;Categoria;Preco_unitario;Custo ;Obs
+CH-001;            Chanel;            Bolsa Feminina;Luxo;35.000,00;22.000,00;            Modelo classico com corrente dourada
+HM-002;            Hermes;            Bolsa Feminina;Ultra Luxo;75.000,00;48.000,00;            Birkin 30 Couro Togo
+LV-003;            Louis Vuitton;    Bolsa Unissex;Luxo;12.800,00;7.900,00;                Speedy Bandouliere 25 Monogram
+GC-004;            Gucci;            Bolsa Feminina;Luxo;9.500,00;5.600,00;                Dionysus GG Supreme
+GV-005;            Givenchy;        Bolsa Feminina;Luxo;8.200,00;4.800,00;                Antigona Media
+FD-006;            Fendi;            Bolsa Feminina;Luxo;11.300,00;6.900,00;                Peekaboo ISeeU Petite
+BV-007;            Bottega Veneta;    Bolsa Feminina;Luxo;13.400,00;8.200,00;                The Pouch Couro
+DR-008;            Dior;            Bolsa Feminina;Luxo;15.800,00;9.400,00;                Saddle Bag Oblique
+BL-009;            Balenciaga;        Bolsa Feminina;Street Luxo;9.100,00;5.500,00;                Neo Classic City XS
+PR-010;            Prada;            Bolsa Feminina;Luxo;10.200,00;6.100,00;                Re-Edition 2005 Nylon
+CH-011;            Chanel;            Bolsa Carteira;Luxo;7.800,00;4.300,00;                Clutch de verniz
+HM-012;            Hermes;            Bolsa Tote;    Ultra Luxo;88.000,00;55.000,00;            Garden Party 36
+LV-013;            Louis Vuitton;    Bolsa Transversal Luxo;11.000,00;6.700,00;                Pochette Motis Empreinte;
+GC-014;            Gucci;            Bolsa de Mao;    Luxo;6.900,00;4.100,00;                Marmont Mini
+GV-015;            Givenchy;        Bolsa Carteira;Luxo;5.300,00;3.000,00;                Porta-cartao de couro
+FD-016;            Fendi;            Bolsa Clutch;    Luxo;7.400,00;4.600,00;                First Small
+BV-017;            Bottega Veneta;    Bolsa Tiracolo;Luxo;14.900,00;9.100,00;                Cassette Padded
+DR-018;            Dior;            Bolsa Shopper;Luxo;18.600,00;11.200,00;            Book Tote Bordada
+BL-019;            Balenciaga;        Bolsa Mini;    Street Luxo;6.800,00;4.200,00;                Le Cagole XS
+PR-020;            Prada;            Bolsa Feminina;Luxo;9.700,00;5.900,00;                Cleo Brushed Leather
